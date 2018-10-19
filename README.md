@@ -1,1 +1,3 @@
 # Discord
+
+#Dii is retarted
