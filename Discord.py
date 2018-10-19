@@ -1,7 +1,7 @@
 import discord
 import youtube_dl as ytb_dl
 #id 502858151612383232
-client = discord.Client()
+client = discord.client.Client()
 token = open("token.txt", 'r').read()
 # pip install -U git+https://github.com/Rapptz/discord.py@rewrite#egg=discord.py[voice]
 
