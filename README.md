@@ -1,4 +1,4 @@
 # Discord
 
 #Dii is retarted
-#Nation Likes monkeys
+#Nation Likes bananas
